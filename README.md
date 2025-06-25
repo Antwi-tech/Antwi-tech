@@ -32,8 +32,10 @@ p/api?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=tr
 - **Cloud Engineering**: AWS Fundamentals  
 - **Infrastructure as Code**: Terraform, Ansible  
 
+
 ## Working on:
 🚀 Planning to build a Airbnb to demonstrate real-world backend architecture and DevOps integration.
+
 
 ## 📚 Learning
 
