@@ -23,3 +23,16 @@ p/api?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=tr
 [![](https://visitcount.itsvg.in/api?id=rhodal-lee&icon=9&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🧠 Current Focus & Learning
+
+```yaml
+Learning:
+  - Backend Engineering (Python, APIs, SQL, Flask, Django)
+  - Systems Design & Performance Optimization
+  - DevOps Tools (Docker, Kubernetes, GitHub Actions, CI/CD)
+  - Cloud Engineering (AWS fundamentals)
+  - Infrastructure as Code (Terraform, Ansible)
+
+💻 Working on:
+🚀 Planning to build a Airbnb to demonstrate real-world backend architecture and DevOps integration.
