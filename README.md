@@ -5,11 +5,7 @@
 - 💞️ I’m looking to collaborate on any project to enhance my skills and to share my skills too
 - 📫 How to reach me https://www.linkedin.com/in/nana-conduah-195b972b2/
 - ⚡ Fun fact: I love to dance and read
-
-<!---
-Antwi-tech/Antwi-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
 ## 🧠 Current Focus & Learning
 
 ```yaml
@@ -35,7 +31,13 @@ Learning:
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.ap
+
+<!---
+Antwi-tech/Antwi-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+p/api?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Antwi-tech&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
