@@ -6,29 +6,6 @@
 - 📫 How to reach me https://www.linkedin.com/in/nana-conduah-195b972b2/
 - ⚡ Fun fact: I love to dance and read
   
-## 🧠 Current Focus & Learning
-
-```yaml
-Learning:
-  - Backend Engineering (Python, APIs, SQL, Flask, Django)
-  - Systems Design & Performance Optimization
-  - DevOps Tools (Docker, Kubernetes, GitHub Actions, CI/CD)
-  - Cloud Engineering (AWS fundamentals)
-  - Infrastructure as Code (Terraform, Ansible)
-
-🛠️ Tech Stack
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-
-💻 Working on:
-🚀 Planning to work on an Airbnb to demonstrate real-world backend architecture and DevOps integration with the above tech stack.
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.ap
