@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[Nana%20Afua%20Antwiwaa%20Conduah]!&fontSize=35&fontAlignY=40&desc=Backend%20Engineer%20|%20DevOps%20Engineer%20|%20Tech%20Optimizer&descAlignY=60" alt="banner"/>
+
 - 👋 Hi, I’m @Antwi-tech
 - 👀 I’m interested in Web Development, Backend , DevOps and Networking
 - 🌱 I’m currently learning Backend and UI/UX
