@@ -46,12 +46,12 @@ p/api?username=Antwi-tech&theme=radical&hide_border=false&include_all_commits=tr
 
 - **Systems Design & Performance Optimization**
 
-- **DevOps Tools**  
+- **DevOps & Cloud Engineering**  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
   ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=gitlab&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-- **Cloud Engineering**: AWS Fundamentals
-
-- **Infrastructure as Code**: Terraform, Ansible
